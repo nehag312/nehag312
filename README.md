@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neha Gupta.
-- 👀 I’m interested in machine learning.
+- 👀 I’m interested in machine learning and data visualization.
 - 🌱 I’m currently learning statistics and data programming. 
 - 💞️ I’m looking to collaborate on projects on data analysis.
 - 📫 LinkedIn profile- https://www.linkedin.com/in/neha-gupta-05991119a
